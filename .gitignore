@@ -5,10 +5,14 @@
 [Bb]uilds/
 [Ll]ogs/
 UserSettings/
+MemoryCaptures/
+Recordings/
 
 *.csproj
 *.unityproj
 *.sln
+*.suo
+*.tmp
 *.user
 *.userprefs
 *.pidb
@@ -19,4 +23,6 @@ UserSettings/
 *.opendb
 *.VC.db
 
+.vscode/
+.idea/
 .DS_Store
